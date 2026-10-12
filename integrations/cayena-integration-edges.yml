@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/cayena/integrations
+- https://n8n.io/integrations/cayena/
+- https://composio.dev/toolkits/cayena
+- https://monid.ai/tools/cayena
+checked:
+- https://composio.dev/toolkits/cayena
+- https://monid.ai/tools/cayena
+- https://n8n.io/integrations/cayena/
+- https://zapier.com/apps/cayena/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
